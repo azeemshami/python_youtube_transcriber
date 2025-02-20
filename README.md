@@ -5,8 +5,6 @@ It's a simple Python FastAPI based youtube transcriber that will convert youtube
 
 ### Setup
 
-python3 -m venv
-
 
 
 
